@@ -5,7 +5,8 @@ import java.util.Set;
 
 public class DuplicatesValue {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{ // hello man this is ankur malviya
 //		String str = "Java python java ruby java selenium";
 //		char[] strArray = str.toCharArray();
 //		System.out.println(strArray);

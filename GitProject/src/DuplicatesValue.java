@@ -10,7 +10,7 @@ public class DuplicatesValue {
 //		char[] strArray = str.toCharArray();
 //		System.out.println(strArray);
 		
-		String[] str = {"Java","python", "java",  "ruby" ,"java" ,"selenium"};
+		String[] str = {"Following","python", "java",  "ruby" ,"java" ,"selenium"};
 		
 		Set <String> list = new HashSet<String>();
 		for(String a:str)
